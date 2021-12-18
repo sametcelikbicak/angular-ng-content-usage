@@ -6,5 +6,5 @@ import { Component, VERSION } from '@angular/core';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  title = `Angular ${VERSION.major} ng-content Usage`;
+  public title = `Angular ${VERSION.major} ng-content Usage`;
 }
